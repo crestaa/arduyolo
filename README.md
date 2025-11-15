@@ -1,4 +1,7 @@
-# ArduPilot Project
+# ArduYOLO
+Project for the course of [Cyber Physical Systems and IoT Security](https://didattica.unipd.it/off/2025/LM/SC/SC2598/000ZZ/SCQ2101239/N0), University of Padua (A.Y. 2025/26)
+
+Application of [YOLO](https://www.cs.columbia.edu/~simha/YOLO_Resetting_CPS_for_Security.pdf) (Arroyo et al.) to a rover system as a mitigation to cyber-attacks by introducing frequent resets.
 
 <a href="https://ardupilot.org/discord"><img src="https://img.shields.io/discord/674039678562861068.svg" alt="Discord">
 
